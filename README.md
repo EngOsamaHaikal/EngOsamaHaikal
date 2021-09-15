@@ -3,7 +3,7 @@
 I am an electrical engineering student at the Hashemite University, not a graduate, and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories. I love programming and spend most of my time learning everything new, and I specialize in web development.I learned how to develop websites using the Django framework and started working as a freelance programmer 6 months ago, programming websites using Django, Bootstrap, etc. 
 
 - ⚡ I’m looking to work, collaborate and volunterer with other developers
-- ⚡ I’m learning vue js and to build django website with vue js
+- ⚡ I’m learning vue js and building django website with vue js
 - ⚡ I’m looking to work, collaborate and volunterer with other developers
 - ⚡ 2021 Goals:
 -  > Master web development 
