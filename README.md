@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Iam Osama Haikal | My [Portfolio website](osamahaikal.pytohnanywhere.com) 👋<br><br>Software/Electrical engineer and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories.
+Iam Osama Haikal | My [Portfolio website](https://osamahaikal.pythonanywhere.com/) 👋<br><br>Software/Electrical engineer and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories.
 
 Learning new programming languages and technologies is something I enjoy doing. 
 
