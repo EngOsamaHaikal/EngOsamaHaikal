@@ -1,6 +1,16 @@
 # 💫 About Me:
-### Iam Osama Haikal | My [Portfolio website][website] 👋<br><br>I am an electrical engineering student at the Hashemite University, not a graduate, and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories. I love programming and spend most of my time learning everything new, and I specialize in web development.I learned how to develop websites using the Django framework and started working as a freelance programmer 6 months ago, programming websites using Django, Bootstrap, etc. <br><br>- ⚡ I’m looking to work, collaborate and volunterer with other developers<br>- ⚡ I’m learning vue js and building django website with vue js<br>- ⚡ I’m looking to work, collaborate and volunterer with other developers<br>- ⚡ 2021 Goals:<br>-  > Master web development <br>-  > Learn NLP<br> - > Pass the AWS nanodegree machine learning on Udacity<br>- ⚡ Fun fact: I love to draw anime characters and learn Japanese<br><br>### Connect with me:<br><br>[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+### Iam Osama Haikal | My [Portfolio website][website] 👋<br><br>I am an electrical engineering student at the Hashemite University, not a graduate, and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories.
 
+Learning new programming languages and technologies is something I enjoy doing. 
+
+Software Engineer and Django developer with good skills in front-end technologies vue nuxt js
+
+I'm fascinated by data science and artificial intelligence, and because of my good background in electrical engineering, I found these fields particularly appealing. As a Python developer and Electrical Engineer, I began learning data science and machine learning algorithms, something that I applied to my graduation project which was an RNN, CNN model on predicting a time series data (Humidity). 
+
+My focus is to enhance my soft and leadership skills at the same time as I improve my programming, database and data science skills.
+
+Osama Haikal,
+Fab 2022
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osamahaikal_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-haikal-8ba265205) 
