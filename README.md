@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Iam Osama Haikal | My [Portfolio website](https://osamahaikal.pythonanywhere.com/) 👋<br><br>Software/Electrical engineer and I have a passion for communications sciences. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern communication theories.
+Iam Osama Haikal | 👋<br><br>Software engineer. I work in cooperation with Dr. Ali Al-Hayajneh, my supervisor in the graduation project, trying to introduce machine learning algorithms to some modern electrical communication theories.
 
 Learning new programming languages and technologies is something I enjoy doing. 
 
-Software Engineer and Django developer with good skills in front-end technologies vue nuxt js
+Software Engineer and Full stack developer (python(django), javascript and typescript(vue, nuxt, fastif)
 
 I'm fascinated by data science and artificial intelligence, and because of my good background in electrical engineering, I found these fields particularly appealing. As a Python developer and Electrical Engineer, I began learning data science and machine learning algorithms, something that I applied to my graduation project which was an RNN, CNN model on predicting a time series data (Humidity). 
 
@@ -13,6 +13,8 @@ My focus is to enhance my soft and leadership skills at the same time as I impro
 Osama Haikal,
 Fab 2022
 
+## contributer in:
+  [activepieces](https://github.com/activepieces/activepieces)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osamahaikal_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-haikal-8ba265205) 
 
