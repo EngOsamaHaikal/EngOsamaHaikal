@@ -7,8 +7,9 @@ Full-stack developer with a background in electrical engineering.
 Very passionate about open source, programming, and constantly learning and adapting.Learning new programming languages and technologies is something I enjoy doing Full-stack developer with a background in electrical engineering. Very passionate about open source, programming, and constantly learning and adapting.
 
 ## contributed in:
-  [activepieces](https://github.com/activepieces/activepieces)
-  [nuxt i18n micro]([https://github.com/activepieces/activepieces](https://nuxt.com/modules/nuxt-i18n-micro))
+  1. [activepieces](https://github.com/activepieces/activepieces)
+  2. [nuxt i18n micro](https://nuxt.com/modules/nuxt-i18n-micro)
+
   and more is comming <3 
 
 # 💻 Tech Stack:
