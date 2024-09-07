@@ -9,7 +9,7 @@ Very passionate about open source, programming, and constantly learning and adap
 ## contributed in:
   1. [activepieces](https://github.com/activepieces/activepieces)
   2. [nuxt i18n micro](https://nuxt.com/modules/nuxt-i18n-micro)
-  3. [nuxt](https//nuxt.com)
+  3. [nuxt](https://nuxt.com)
 
   and more is comming <3 
 
