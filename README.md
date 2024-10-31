@@ -1,17 +1,4 @@
-# 💫 About Me [osamahaikal.me](osamahaikal.me) :
-
-Learning new programming languages and technologies is something I enjoy doing
-
-Full-stack developer with a background in electrical engineering.
-
-Very passionate about open source, programming, and constantly learning and adapting.Learning new programming languages and technologies is something I enjoy doing Full-stack developer with a background in electrical engineering. Very passionate about open source, programming, and constantly learning and adapting.
-
-## contributed in:
-  1. [activepieces](https://github.com/activepieces/activepieces)
-  2. [nuxt i18n micro](https://nuxt.com/modules/nuxt-i18n-micro)
-  3. [nuxt](https://nuxt.com)
-
-  and more is comming <3 
+## 💫 Portfolio [osamahaikal.me](osamahaikal.me) :
 
 [![OsamaHaikal Nuxter profile](https://nuxters.nuxt.com/card/OsamaHaikal/og.png)](https://nuxters.nuxt.com/OsamaHaikal)
 
