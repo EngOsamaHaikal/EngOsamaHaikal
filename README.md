@@ -1,4 +1,4 @@
-## 💫 Portfolio [osamahaikal.me](osamahaikal.me) :
+## 💫 Portfolio [osamahaikal.me](osamahaikal.me)
 
 [![OsamaHaikal Nuxter profile](https://nuxters.nuxt.com/card/OsamaHaikal/og.png)](https://nuxters.nuxt.com/OsamaHaikal)
 
